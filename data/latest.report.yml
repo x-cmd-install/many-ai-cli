@@ -5,7 +5,7 @@ about:
   head: d312868
   archived: false
   latestVersion: "v0.7.0"
-  collectedAt: 2026-09-08T02:48:26Z
+  collectedAt: 2026-09-08T05:28:28Z
 timeline:
   created: 2026-05-10
   lastCommit: 2026-08-29
@@ -89,7 +89,7 @@ total:
   commit: 418
 ---
 path: /home/runner/.x-repo/github.com/ishizakahiroshi/many-ai-cli
-collectedAt: 2026-09-08T02:48:29Z
+collectedAt: 2026-09-08T05:28:31Z
 loc:
   Go:
     code: 62143
