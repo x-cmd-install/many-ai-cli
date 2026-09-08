@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 12055655,
       "digest": "sha256:e888cf5f0c2b768c8f1a97755da2ef59ed5f76990c04e1bf484b2171ad4b863b",
-      "download_count": 74,
+      "download_count": 75,
       "created_at": "2026-08-15T14:05:02Z",
       "updated_at": "2026-08-15T14:05:03Z",
       "browser_download_url": "https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.7.0/many-ai-cli-0.7.0-windows-x64.zip"
