@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:42:03Z
+  collectedAt: 2026-09-10T17:27:05Z
 timeline:
   created: 2026-05-10
   lastCommit: 2026-09-09
@@ -93,7 +93,7 @@ total:
   commit: 634
 ---
 path: /home/runner/.x-repo/github.com/ishizakahiroshi/many-ai-cli
-collectedAt: 2026-09-10T05:42:08Z
+collectedAt: 2026-09-10T17:27:10Z
 loc:
   Go:
     code: 93200
