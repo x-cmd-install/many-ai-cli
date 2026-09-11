@@ -4,13 +4,25 @@
 
 Run Claude Code, Codex, Copilot, Cursor, and Grok CLIs in parallel — approve every session from one browser tab, even from your phone.
 
-![many-ai-cli](https://repo.x-cmd.io/many-ai-cli.svg)
+![many-ai-cli](https://repo.x-cmd.io/many-ai-cli.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install many-ai-cli
 ```
+
+## 代码洞察
+
+合计: **166,509** 行代码（覆盖前 5 种语言、共 **677** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 93,200 | 13,413 | 8,350 | 482 |
+| TypeScript | 45,015 | 5,287 | 4,047 | 115 |
+| Css | 13,198 | 962 | 659 | 31 |
+| Json | 6,303 | 0 | 0 | 19 |
+| JavaScript | 5,748 | 641 | 811 | 30 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install many-ai-cli
 - **最新版本**: `v0.8.0` (2026-09-09)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 13 个
-- **发布时间**: 2026-09-09T04:13:49Z
 
 ## 流行度
 
@@ -37,21 +48,30 @@ x install many-ai-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 0 | 0 | 0 | 0 | 233 |
-| 90d | 2026-06-12 | 11 | 2 | 0 | 0 | 0 | 453 |
-| 360d | 2025-09-15 | 15 | 2 | 0 | 0 | 0 | 605 |
+| 30d | 2026-08-12 | 2 | 0 | 0 | 0 | 0 | 233 |
+| last60d | 2026-07-13 | 5 | 2 | 0 | 0 | 0 | 331 |
+| 90d | 2026-06-13 | 11 | 2 | 0 | 0 | 0 | 453 |
+| last180d | 2026-03-15 | 15 | 2 | 0 | 0 | 0 | 605 |
+| 360d | 2025-09-16 | 15 | 2 | 0 | 0 | 0 | 605 |
+| last720d | 2024-09-21 | 15 | 2 | 0 | 0 | 0 | 634 |
 
-## 代码规模
+## Release 资产
 
-合计: **166,509** 行代码（覆盖前 5 种语言、共 **677** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 93,200 | 13,413 | 8,350 | 482 |
-| TypeScript | 45,015 | 5,287 | 4,047 | 115 |
-| Css | 13,198 | 962 | 659 | 31 |
-| Json | 6,303 | 0 | 0 | 19 |
-| JavaScript | 5,748 | 641 | 811 | 30 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [many-ai-cli-0.8.0-linux-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/many-ai-cli-0.8.0-linux-x64.zip) | 11.9 MiB | `other` |
+| [many-ai-cli-0.8.0-linux-x64.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/many-ai-cli-0.8.0-linux-x64.zip.sbom.json) | 32.2 KiB | `other` |
+| [many-ai-cli-0.8.0-macos-apple-silicon.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/many-ai-cli-0.8.0-macos-apple-silicon.zip) | 11.5 MiB | `native/darwin/x64` |
+| [many-ai-cli-0.8.0-macos-apple-silicon.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/many-ai-cli-0.8.0-macos-apple-silicon.zip.sbom.json) | 35.6 KiB | `native/darwin/x64` |
+| [many-ai-cli-0.8.0-macos-intel.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/many-ai-cli-0.8.0-macos-intel.zip) | 12.0 MiB | `native/darwin/x64` |
+| [many-ai-cli-0.8.0-macos-intel.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/many-ai-cli-0.8.0-macos-intel.zip.sbom.json) | 35.4 KiB | `native/darwin/x64` |
+| [many-ai-cli-0.8.0-windows-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/many-ai-cli-0.8.0-windows-x64.zip) | 12.2 MiB | `native/win/x64` |
+| [many-ai-cli-0.8.0-windows-x64.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/many-ai-cli-0.8.0-windows-x64.zip.sbom.json) | 38.7 KiB | `native/win/x64` |
+| [many-ai-cli_0.8.0_linux_amd64.deb](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/many-ai-cli_0.8.0_linux_amd64.deb) | 11.7 MiB | `native/linux/x64` |
+| [many-ai-cli_0.8.0_linux_amd64.rpm](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/many-ai-cli_0.8.0_linux_amd64.rpm) | 11.7 MiB | `native/linux/x64` |
+| [SHA256SUMS.txt](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/SHA256SUMS.txt) | 1.0 KiB | `other` |
+| [SHA256SUMS.txt.pem](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/SHA256SUMS.txt.pem) | 3.3 KiB | `other` |
+| [SHA256SUMS.txt.sig](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.8.0/SHA256SUMS.txt.sig) | 96 B | `other` |
 
 ## 改进这些数据
 
@@ -62,4 +82,4 @@ many-ai-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:42:13Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:05:33Z._
