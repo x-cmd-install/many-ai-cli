@@ -14,15 +14,15 @@ x install many-ai-cli
 
 ## Code insight
 
-Total: **214,838** lines of code across **891** files in the top 5 languages.
+Total: **640,566** lines of code across **1680** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 128,138 | 21,270 | 11,441 | 623 |
-| TypeScript | 53,633 | 7,646 | 5,241 | 169 |
-| Css | 14,049 | 1,180 | 698 | 35 |
-| Json | 7,863 | 0 | 0 | 28 |
-| JavaScript | 7,788 | 892 | 854 | 36 |
+| Rust | 208,023 | 2,031 | 2,164 | 525 |
+| Json | 189,560 | 0 | 0 | 188 |
+| Go | 140,800 | 22,435 | 12,233 | 698 |
+| TypeScript | 66,723 | 8,838 | 6,121 | 228 |
+| Css | 13,731 | 1,286 | 910 | 41 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **214,838** lines of code across **891** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.0` (2026-09-27)
-- **Last commit**: 2026-09-27
+- **Last commit**: 2026-10-31
 - **Assets in release**: 13
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **214,838** lines of code across **891** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 8 · **Open PRs**: 13 · **Closed issues**: 2 · **Open issues**: 14 · **Commits**: 771
+- **Releases**: 16 · **Merged PRs**: 8 · **Open PRs**: 13 · **Closed issues**: 2 · **Open issues**: 14 · **Commits**: 1118
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 6 | 13 | 2 | 14 | 0 |
-| last60d | 2026-08-31 | 2 | 6 | 13 | 2 | 14 | 190 |
-| 90d | 2026-08-01 | 4 | 6 | 13 | 2 | 14 | 407 |
-| last180d | 2026-05-03 | 16 | 8 | 13 | 2 | 14 | 735 |
-| 360d | 2025-11-04 | 16 | 8 | 13 | 2 | 14 | 735 |
-| last720d | 2024-11-09 | 16 | 8 | 13 | 2 | 14 | 771 |
+| 30d | 2026-10-01 | 0 | 6 | 13 | 2 | 14 | 278 |
+| last60d | 2026-09-01 | 2 | 6 | 13 | 2 | 14 | 528 |
+| 90d | 2026-08-02 | 4 | 6 | 13 | 2 | 14 | 745 |
+| last180d | 2026-05-04 | 16 | 8 | 13 | 2 | 14 | 1073 |
+| 360d | 2025-11-05 | 16 | 8 | 13 | 2 | 14 | 1073 |
+| last720d | 2024-11-10 | 16 | 8 | 13 | 2 | 14 | 1118 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for many-ai-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:33:58Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:32:32Z._
