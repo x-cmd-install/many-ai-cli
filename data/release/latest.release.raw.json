@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13411870,
       "digest": "sha256:f1a9deab185a7b7c4edb7a3f60d66a6041dab4484684eeeb721149835d5575c5",
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2026-09-27T09:10:53Z",
       "updated_at": "2026-09-27T09:10:54Z",
       "browser_download_url": "https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-linux-x64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 37838,
       "digest": "sha256:81a85049724bc0f2eba736401fecd4aa5a9aaf24ab333d271ddce4b2c8ab9d57",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-27T09:10:55Z",
       "updated_at": "2026-09-27T09:10:55Z",
       "browser_download_url": "https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-macos-intel.zip.sbom.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13785252,
       "digest": "sha256:48f24c09ca9bfd4bf11ca79d89d6d1372d1960d436f889653492b456122916a1",
-      "download_count": 141,
+      "download_count": 147,
       "created_at": "2026-09-27T09:10:53Z",
       "updated_at": "2026-09-27T09:10:54Z",
       "browser_download_url": "https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-windows-x64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 13198318,
       "digest": "sha256:f0b557123e03f4619708377dcbf4cfd80b4c594d730c3512335bdc9bf8e17c39",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-27T09:10:54Z",
       "updated_at": "2026-09-27T09:10:55Z",
       "browser_download_url": "https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli_0.9.0_linux_amd64.deb"
