@@ -14,11 +14,11 @@ x install many-ai-cli
 
 ## 代码洞察
 
-合计: **663,879** 行代码（覆盖前 5 种语言、共 **1718** 个文件）。
+合计: **664,008** 行代码（覆盖前 5 种语言、共 **1718** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 228,577 | 2,990 | 2,734 | 541 |
+| Rust | 228,617 | 2,998 | 2,734 | 541 |
 | Json | 188,847 | 0 | 0 | 186 |
 | Go | 140,797 | 22,434 | 12,233 | 697 |
 | TypeScript | 70,892 | 9,486 | 6,406 | 252 |
@@ -32,46 +32,48 @@ x install many-ai-cli
 
 ## 发布
 
-- **最新版本**: `v0.10.0-rc.2` (2026-09-27)
+- **最新版本**: `v0.10.0` (2026-11-15)
 - **最近提交**: 2026-11-15
-- **Release 含资产**: 13 个
+- **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 10 · **Fork**: 5 · **开放 issue**: 16 · **贡献者**: 5
+- **Star**: 10 · **Fork**: 5 · **开放 issue**: 17 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 8 · **开放 PR**: 13 · **已关闭 issue**: 2 · **开放 issue**: 14 · **提交数**: 1242
+- **发布数**: 18 · **已合并 PR**: 9 · **开放 PR**: 13 · **已关闭 issue**: 3 · **开放 issue**: 14 · **提交数**: 1249
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 4 | 3 | 2 | 7 | 197 |
-| last60d | 2026-09-16 | 2 | 6 | 13 | 2 | 14 | 528 |
-| 90d | 2026-08-17 | 3 | 6 | 13 | 2 | 14 | 752 |
-| last180d | 2026-05-19 | 14 | 8 | 13 | 2 | 14 | 1132 |
-| 360d | 2025-11-20 | 17 | 8 | 13 | 2 | 14 | 1196 |
-| last720d | 2024-11-25 | 17 | 8 | 13 | 2 | 14 | 1242 |
+| 30d | 2026-10-17 | 2 | 5 | 4 | 3 | 8 | 204 |
+| last60d | 2026-09-17 | 3 | 7 | 13 | 3 | 14 | 535 |
+| 90d | 2026-08-18 | 4 | 7 | 13 | 3 | 14 | 759 |
+| last180d | 2026-05-20 | 15 | 9 | 13 | 3 | 14 | 1139 |
+| 360d | 2025-11-21 | 18 | 9 | 13 | 3 | 14 | 1203 |
+| last720d | 2024-11-26 | 18 | 9 | 13 | 3 | 14 | 1249 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [many-ai-cli-0.9.0-linux-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-linux-x64.zip) | 12.8 MiB | `other` |
-| [many-ai-cli-0.9.0-linux-x64.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-linux-x64.zip.sbom.json) | 33.8 KiB | `other` |
-| [many-ai-cli-0.9.0-macos-apple-silicon.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-macos-apple-silicon.zip) | 12.4 MiB | `native/darwin/x64` |
-| [many-ai-cli-0.9.0-macos-apple-silicon.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-macos-apple-silicon.zip.sbom.json) | 37.2 KiB | `native/darwin/x64` |
-| [many-ai-cli-0.9.0-macos-intel.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-macos-intel.zip) | 12.9 MiB | `native/darwin/x64` |
-| [many-ai-cli-0.9.0-macos-intel.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-macos-intel.zip.sbom.json) | 37.0 KiB | `native/darwin/x64` |
-| [many-ai-cli-0.9.0-windows-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-windows-x64.zip) | 13.1 MiB | `native/win/x64` |
-| [many-ai-cli-0.9.0-windows-x64.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-windows-x64.zip.sbom.json) | 40.3 KiB | `native/win/x64` |
-| [many-ai-cli_0.9.0_linux_amd64.deb](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli_0.9.0_linux_amd64.deb) | 12.6 MiB | `native/linux/x64` |
-| [many-ai-cli_0.9.0_linux_amd64.rpm](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli_0.9.0_linux_amd64.rpm) | 12.6 MiB | `native/linux/x64` |
-| [SHA256SUMS.txt](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/SHA256SUMS.txt) | 1.0 KiB | `other` |
-| [SHA256SUMS.txt.pem](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/SHA256SUMS.txt.pem) | 3.3 KiB | `other` |
-| [SHA256SUMS.txt.sig](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/SHA256SUMS.txt.sig) | 96 B | `other` |
+| [many-ai-cli-0.10.0-1.x86_64.rpm](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-1.x86_64.rpm) | 20.6 MiB | `runtime/rpm/x86_64` |
+| [many-ai-cli-0.10.0-1.x86_64.rpm.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-1.x86_64.rpm.spdx.json) | 5.9 KiB | `other` |
+| [many-ai-cli-0.10.0-linux-x64.deb](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.deb) | 15.4 MiB | `other` |
+| [many-ai-cli-0.10.0-linux-x64.deb.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.deb.spdx.json) | 5.9 KiB | `other` |
+| [many-ai-cli-0.10.0-linux-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.zip) | 21.1 MiB | `other` |
+| [many-ai-cli-0.10.0-linux-x64.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.zip.spdx.json) | 3.0 KiB | `other` |
+| [many-ai-cli-0.10.0-macos-apple-silicon.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-apple-silicon.zip) | 19.1 MiB | `native/darwin/x64` |
+| [many-ai-cli-0.10.0-macos-apple-silicon.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-apple-silicon.zip.spdx.json) | 3.0 KiB | `native/darwin/x64` |
+| [many-ai-cli-0.10.0-macos-intel.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-intel.zip) | 19.9 MiB | `native/darwin/x64` |
+| [many-ai-cli-0.10.0-macos-intel.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-intel.zip.spdx.json) | 3.0 KiB | `native/darwin/x64` |
+| [many-ai-cli-0.10.0-windows-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-windows-x64.zip) | 19.0 MiB | `native/win/x64` |
+| [many-ai-cli-0.10.0-windows-x64.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-windows-x64.zip.spdx.json) | 9.1 KiB | `native/win/x64` |
+| [SHA256SUMS.txt](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/SHA256SUMS.txt) | 1.2 KiB | `other` |
+| [SHA256SUMS.txt.pem](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/SHA256SUMS.txt.pem) | 3.3 KiB | `other` |
+| [SHA256SUMS.txt.sig](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/SHA256SUMS.txt.sig) | 96 B | `other` |
 
 ## 改进这些数据
 
@@ -82,4 +84,4 @@ many-ai-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T07:32:50Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T07:46:49Z._

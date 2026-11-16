@@ -14,11 +14,11 @@ x install many-ai-cli
 
 ## Code insight
 
-Total: **663,879** lines of code across **1718** files in the top 5 languages.
+Total: **664,008** lines of code across **1718** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 228,577 | 2,990 | 2,734 | 541 |
+| Rust | 228,617 | 2,998 | 2,734 | 541 |
 | Json | 188,847 | 0 | 0 | 186 |
 | Go | 140,797 | 22,434 | 12,233 | 697 |
 | TypeScript | 70,892 | 9,486 | 6,406 | 252 |
@@ -32,46 +32,48 @@ Total: **663,879** lines of code across **1718** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.0-rc.2` (2026-09-27)
+- **Latest**: `v0.10.0` (2026-11-15)
 - **Last commit**: 2026-11-15
-- **Assets in release**: 13
+- **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 10 · **Forks**: 5 · **Open issues**: 16 · **Contributors**: 5
+- **Stars**: 10 · **Forks**: 5 · **Open issues**: 17 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 8 · **Open PRs**: 13 · **Closed issues**: 2 · **Open issues**: 14 · **Commits**: 1242
+- **Releases**: 18 · **Merged PRs**: 9 · **Open PRs**: 13 · **Closed issues**: 3 · **Open issues**: 14 · **Commits**: 1249
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 4 | 3 | 2 | 7 | 197 |
-| last60d | 2026-09-16 | 2 | 6 | 13 | 2 | 14 | 528 |
-| 90d | 2026-08-17 | 3 | 6 | 13 | 2 | 14 | 752 |
-| last180d | 2026-05-19 | 14 | 8 | 13 | 2 | 14 | 1132 |
-| 360d | 2025-11-20 | 17 | 8 | 13 | 2 | 14 | 1196 |
-| last720d | 2024-11-25 | 17 | 8 | 13 | 2 | 14 | 1242 |
+| 30d | 2026-10-17 | 2 | 5 | 4 | 3 | 8 | 204 |
+| last60d | 2026-09-17 | 3 | 7 | 13 | 3 | 14 | 535 |
+| 90d | 2026-08-18 | 4 | 7 | 13 | 3 | 14 | 759 |
+| last180d | 2026-05-20 | 15 | 9 | 13 | 3 | 14 | 1139 |
+| 360d | 2025-11-21 | 18 | 9 | 13 | 3 | 14 | 1203 |
+| last720d | 2024-11-26 | 18 | 9 | 13 | 3 | 14 | 1249 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [many-ai-cli-0.9.0-linux-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-linux-x64.zip) | 12.8 MiB | `other` |
-| [many-ai-cli-0.9.0-linux-x64.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-linux-x64.zip.sbom.json) | 33.8 KiB | `other` |
-| [many-ai-cli-0.9.0-macos-apple-silicon.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-macos-apple-silicon.zip) | 12.4 MiB | `native/darwin/x64` |
-| [many-ai-cli-0.9.0-macos-apple-silicon.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-macos-apple-silicon.zip.sbom.json) | 37.2 KiB | `native/darwin/x64` |
-| [many-ai-cli-0.9.0-macos-intel.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-macos-intel.zip) | 12.9 MiB | `native/darwin/x64` |
-| [many-ai-cli-0.9.0-macos-intel.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-macos-intel.zip.sbom.json) | 37.0 KiB | `native/darwin/x64` |
-| [many-ai-cli-0.9.0-windows-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-windows-x64.zip) | 13.1 MiB | `native/win/x64` |
-| [many-ai-cli-0.9.0-windows-x64.zip.sbom.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli-0.9.0-windows-x64.zip.sbom.json) | 40.3 KiB | `native/win/x64` |
-| [many-ai-cli_0.9.0_linux_amd64.deb](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli_0.9.0_linux_amd64.deb) | 12.6 MiB | `native/linux/x64` |
-| [many-ai-cli_0.9.0_linux_amd64.rpm](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/many-ai-cli_0.9.0_linux_amd64.rpm) | 12.6 MiB | `native/linux/x64` |
-| [SHA256SUMS.txt](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/SHA256SUMS.txt) | 1.0 KiB | `other` |
-| [SHA256SUMS.txt.pem](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/SHA256SUMS.txt.pem) | 3.3 KiB | `other` |
-| [SHA256SUMS.txt.sig](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.9.0/SHA256SUMS.txt.sig) | 96 B | `other` |
+| [many-ai-cli-0.10.0-1.x86_64.rpm](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-1.x86_64.rpm) | 20.6 MiB | `runtime/rpm/x86_64` |
+| [many-ai-cli-0.10.0-1.x86_64.rpm.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-1.x86_64.rpm.spdx.json) | 5.9 KiB | `other` |
+| [many-ai-cli-0.10.0-linux-x64.deb](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.deb) | 15.4 MiB | `other` |
+| [many-ai-cli-0.10.0-linux-x64.deb.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.deb.spdx.json) | 5.9 KiB | `other` |
+| [many-ai-cli-0.10.0-linux-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.zip) | 21.1 MiB | `other` |
+| [many-ai-cli-0.10.0-linux-x64.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.zip.spdx.json) | 3.0 KiB | `other` |
+| [many-ai-cli-0.10.0-macos-apple-silicon.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-apple-silicon.zip) | 19.1 MiB | `native/darwin/x64` |
+| [many-ai-cli-0.10.0-macos-apple-silicon.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-apple-silicon.zip.spdx.json) | 3.0 KiB | `native/darwin/x64` |
+| [many-ai-cli-0.10.0-macos-intel.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-intel.zip) | 19.9 MiB | `native/darwin/x64` |
+| [many-ai-cli-0.10.0-macos-intel.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-intel.zip.spdx.json) | 3.0 KiB | `native/darwin/x64` |
+| [many-ai-cli-0.10.0-windows-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-windows-x64.zip) | 19.0 MiB | `native/win/x64` |
+| [many-ai-cli-0.10.0-windows-x64.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-windows-x64.zip.spdx.json) | 9.1 KiB | `native/win/x64` |
+| [SHA256SUMS.txt](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/SHA256SUMS.txt) | 1.2 KiB | `other` |
+| [SHA256SUMS.txt.pem](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/SHA256SUMS.txt.pem) | 3.3 KiB | `other` |
+| [SHA256SUMS.txt.sig](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/SHA256SUMS.txt.sig) | 96 B | `other` |
 
 ## Improve this data
 
@@ -82,4 +84,4 @@ Install metadata for many-ai-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:32:50Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:46:49Z._
