@@ -38,22 +38,22 @@ Total: **664,008** lines of code across **1718** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10 · **Forks**: 5 · **Open issues**: 17 · **Contributors**: 5
+- **Stars**: 10 · **Forks**: 5 · **Open issues**: 19 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 9 · **Open PRs**: 13 · **Closed issues**: 3 · **Open issues**: 14 · **Commits**: 1249
+- **Releases**: 18 · **Merged PRs**: 9 · **Open PRs**: 15 · **Closed issues**: 3 · **Open issues**: 16 · **Commits**: 1249
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 5 | 4 | 3 | 8 | 204 |
-| last60d | 2026-09-17 | 3 | 7 | 13 | 3 | 14 | 535 |
-| 90d | 2026-08-18 | 4 | 7 | 13 | 3 | 14 | 759 |
-| last180d | 2026-05-20 | 15 | 9 | 13 | 3 | 14 | 1139 |
-| 360d | 2025-11-21 | 18 | 9 | 13 | 3 | 14 | 1203 |
-| last720d | 2024-11-26 | 18 | 9 | 13 | 3 | 14 | 1249 |
+| 30d | 2026-10-18 | 2 | 5 | 6 | 3 | 10 | 204 |
+| last60d | 2026-09-18 | 3 | 7 | 15 | 3 | 16 | 535 |
+| 90d | 2026-08-19 | 4 | 7 | 15 | 3 | 16 | 759 |
+| last180d | 2026-05-21 | 15 | 9 | 15 | 3 | 16 | 1139 |
+| 360d | 2025-11-22 | 18 | 9 | 15 | 3 | 16 | 1203 |
+| last720d | 2024-11-27 | 18 | 9 | 15 | 3 | 16 | 1249 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for many-ai-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:46:49Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:43:05Z._
