@@ -48,12 +48,12 @@ Total: **664,008** lines of code across **1718** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 3 | 4 | 3 | 7 | 204 |
-| last60d | 2026-09-20 | 3 | 7 | 15 | 3 | 16 | 535 |
-| 90d | 2026-08-21 | 4 | 7 | 15 | 3 | 16 | 759 |
-| last180d | 2026-05-23 | 15 | 9 | 15 | 3 | 16 | 1139 |
-| 360d | 2025-11-24 | 18 | 9 | 15 | 3 | 16 | 1203 |
-| last720d | 2024-11-29 | 18 | 9 | 15 | 3 | 16 | 1249 |
+| 30d | 2026-10-21 | 2 | 3 | 4 | 3 | 7 | 204 |
+| last60d | 2026-09-21 | 3 | 7 | 15 | 3 | 16 | 535 |
+| 90d | 2026-08-22 | 4 | 7 | 15 | 3 | 16 | 759 |
+| last180d | 2026-05-24 | 15 | 9 | 15 | 3 | 16 | 1139 |
+| 360d | 2025-11-25 | 18 | 9 | 15 | 3 | 16 | 1203 |
+| last720d | 2024-11-30 | 18 | 9 | 15 | 3 | 16 | 1249 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for many-ai-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:44:54Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:56:43Z._
