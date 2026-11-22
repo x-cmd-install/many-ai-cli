@@ -14,15 +14,15 @@ x install many-ai-cli
 
 ## Code insight
 
-Total: **664,008** lines of code across **1718** files in the top 5 languages.
+Total: **672,983** lines of code across **1740** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 228,617 | 2,998 | 2,734 | 541 |
-| Json | 188,847 | 0 | 0 | 186 |
+| Rust | 235,909 | 3,150 | 2,871 | 550 |
+| Json | 188,882 | 0 | 0 | 186 |
 | Go | 140,797 | 22,434 | 12,233 | 697 |
-| TypeScript | 70,892 | 9,486 | 6,406 | 252 |
-| Css | 14,016 | 1,348 | 920 | 42 |
+| TypeScript | 72,362 | 9,729 | 6,555 | 264 |
+| Css | 14,091 | 1,383 | 925 | 43 |
 
 ## Source
 
@@ -32,48 +32,48 @@ Total: **664,008** lines of code across **1718** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.0` (2026-11-15)
-- **Last commit**: 2026-11-15
+- **Latest**: `v0.11.1` (2026-11-21)
+- **Last commit**: 2026-11-21
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 10 · **Forks**: 5 · **Open issues**: 19 · **Contributors**: 5
+- **Stars**: 10 · **Forks**: 5 · **Open issues**: 20 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 9 · **Open PRs**: 15 · **Closed issues**: 3 · **Open issues**: 16 · **Commits**: 1249
+- **Releases**: 19 · **Merged PRs**: 9 · **Open PRs**: 16 · **Closed issues**: 4 · **Open issues**: 16 · **Commits**: 1293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 2 | 4 | 2 | 7 | 204 |
-| last60d | 2026-09-22 | 3 | 7 | 15 | 3 | 16 | 535 |
-| 90d | 2026-08-23 | 4 | 7 | 15 | 3 | 16 | 759 |
-| last180d | 2026-05-25 | 14 | 9 | 15 | 3 | 16 | 1139 |
-| 360d | 2025-11-26 | 18 | 9 | 15 | 3 | 16 | 1203 |
-| last720d | 2024-12-01 | 18 | 9 | 15 | 3 | 16 | 1249 |
+| 30d | 2026-10-23 | 3 | 1 | 5 | 2 | 6 | 198 |
+| last60d | 2026-09-23 | 4 | 7 | 16 | 4 | 16 | 472 |
+| 90d | 2026-08-24 | 5 | 7 | 16 | 4 | 16 | 722 |
+| last180d | 2026-05-26 | 15 | 9 | 16 | 4 | 16 | 1165 |
+| 360d | 2025-11-27 | 19 | 9 | 16 | 4 | 16 | 1246 |
+| last720d | 2024-12-02 | 19 | 9 | 16 | 4 | 16 | 1293 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [many-ai-cli-0.10.0-1.x86_64.rpm](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-1.x86_64.rpm) | 20.6 MiB | `runtime/rpm/x86_64` |
-| [many-ai-cli-0.10.0-1.x86_64.rpm.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-1.x86_64.rpm.spdx.json) | 5.9 KiB | `other` |
-| [many-ai-cli-0.10.0-linux-x64.deb](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.deb) | 15.4 MiB | `other` |
-| [many-ai-cli-0.10.0-linux-x64.deb.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.deb.spdx.json) | 5.9 KiB | `other` |
-| [many-ai-cli-0.10.0-linux-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.zip) | 21.1 MiB | `other` |
-| [many-ai-cli-0.10.0-linux-x64.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-linux-x64.zip.spdx.json) | 3.0 KiB | `other` |
-| [many-ai-cli-0.10.0-macos-apple-silicon.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-apple-silicon.zip) | 19.1 MiB | `native/darwin/x64` |
-| [many-ai-cli-0.10.0-macos-apple-silicon.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-apple-silicon.zip.spdx.json) | 3.0 KiB | `native/darwin/x64` |
-| [many-ai-cli-0.10.0-macos-intel.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-intel.zip) | 19.9 MiB | `native/darwin/x64` |
-| [many-ai-cli-0.10.0-macos-intel.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-macos-intel.zip.spdx.json) | 3.0 KiB | `native/darwin/x64` |
-| [many-ai-cli-0.10.0-windows-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-windows-x64.zip) | 19.0 MiB | `native/win/x64` |
-| [many-ai-cli-0.10.0-windows-x64.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/many-ai-cli-0.10.0-windows-x64.zip.spdx.json) | 9.1 KiB | `native/win/x64` |
-| [SHA256SUMS.txt](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/SHA256SUMS.txt) | 1.2 KiB | `other` |
-| [SHA256SUMS.txt.pem](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/SHA256SUMS.txt.pem) | 3.3 KiB | `other` |
-| [SHA256SUMS.txt.sig](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.10.0/SHA256SUMS.txt.sig) | 96 B | `other` |
+| [many-ai-cli-0.11.1-1.x86_64.rpm](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-1.x86_64.rpm) | 21.0 MiB | `runtime/rpm/x86_64` |
+| [many-ai-cli-0.11.1-1.x86_64.rpm.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-1.x86_64.rpm.spdx.json) | 5.9 KiB | `other` |
+| [many-ai-cli-0.11.1-linux-x64.deb](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-linux-x64.deb) | 15.6 MiB | `other` |
+| [many-ai-cli-0.11.1-linux-x64.deb.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-linux-x64.deb.spdx.json) | 5.9 KiB | `other` |
+| [many-ai-cli-0.11.1-linux-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-linux-x64.zip) | 21.4 MiB | `other` |
+| [many-ai-cli-0.11.1-linux-x64.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-linux-x64.zip.spdx.json) | 3.0 KiB | `other` |
+| [many-ai-cli-0.11.1-macos-apple-silicon.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-macos-apple-silicon.zip) | 19.4 MiB | `native/darwin/x64` |
+| [many-ai-cli-0.11.1-macos-apple-silicon.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-macos-apple-silicon.zip.spdx.json) | 3.0 KiB | `native/darwin/x64` |
+| [many-ai-cli-0.11.1-macos-intel.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-macos-intel.zip) | 20.3 MiB | `native/darwin/x64` |
+| [many-ai-cli-0.11.1-macos-intel.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-macos-intel.zip.spdx.json) | 3.0 KiB | `native/darwin/x64` |
+| [many-ai-cli-0.11.1-windows-x64.zip](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-windows-x64.zip) | 19.4 MiB | `native/win/x64` |
+| [many-ai-cli-0.11.1-windows-x64.zip.spdx.json](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/many-ai-cli-0.11.1-windows-x64.zip.spdx.json) | 9.1 KiB | `native/win/x64` |
+| [SHA256SUMS.txt](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/SHA256SUMS.txt) | 1.2 KiB | `other` |
+| [SHA256SUMS.txt.pem](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/SHA256SUMS.txt.pem) | 3.3 KiB | `other` |
+| [SHA256SUMS.txt.sig](https://github.com/ishizakahiroshi/many-ai-cli/releases/download/v0.11.1/SHA256SUMS.txt.sig) | 96 B | `other` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for many-ai-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:43:03Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:16:36Z._
